@@ -19,35 +19,17 @@ Following is list of schools I studied in:-
 
 #### LANGUAGES KNOWN
 
-```mermaid 
+
+1.TELUGU      
+2.ENGLISH
+3.TAMIL
+4.HINDI
+5.KANNADA
+
+
  
- graph LR
 
-A((TELUGU))      
-B{ENGLISH}
-C[TAMIL]
-D(HINDI)
-E(KANNADA)
 
-```
-
-#### HOBBIES AND INTERESTS
-
-```mermaid
-graph LR 
-
-A((HOBBIES)) --> B[PLAYING CRICKET]
-A -->C[WATCHING MOVIES]
-A-->D[READING BOOKS]
-```
-
-```mermaid
-graph LR
-
-A((FAVOURITES))--Cricketers-->B(Virat Kohli , Virender Sehwag )
-A--Actor-->C(Mahesh Babu)
-A--Movie-->D(3 IDIOTS)
-A--IPL team-->E(RCB)
 
 
 
