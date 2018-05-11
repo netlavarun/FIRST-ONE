@@ -29,7 +29,7 @@ int main()
 		}
 	}
 	
-	printf("Sorted list is\n");
+	printf("Sortedlistis\n");
 	
 	for(i=0;i<n;i++)
 	printf("%d",a[i]);
