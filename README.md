@@ -19,15 +19,11 @@ Following is list of schools I studied in:-
 
 #### LANGUAGES KNOWN
 
-
-1.TELUGU      
-2.ENGLISH
-3.TAMIL
-4.HINDI
-5.KANNADA
-
-
- 
+1. TELUGU
+2. HINDI
+3. ENGLISH
+4. KANNADA
+5. TAMIL
 
 
 
